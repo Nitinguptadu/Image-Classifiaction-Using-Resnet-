@@ -1,0 +1,5 @@
+flask
+tensorflow
+keras
+gunicorn
+pillow
