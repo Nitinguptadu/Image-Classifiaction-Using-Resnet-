@@ -13,3 +13,6 @@ So in this code with the help of keras pretrain model i imported the pre trained
 
 
 i local system you just run python app.py 
+
+
+server link https://nitingupta0621.herokuapp.com/
